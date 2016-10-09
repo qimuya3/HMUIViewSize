@@ -20,11 +20,11 @@ Pod::Spec.new do |s|
                    * Finally, don't worry about the indent, CocoaPods strips it!
                    DESC
 
-  s.homepage     = "https://github.com/qimuya3/UIView-Size"
+  s.homepage     = "https://github.com/qimuya3/HMUIViewSize"
   s.license      = { :type => "MIT", :file => "LICENSE" }
   s.author       = "qimuya3"
   s.platform     = :ios, "5.0"
-  s.source       = { :git => "https://github.com/qimuya3/UIView-Size.git", :tag => "0.1.1" }
+  s.source       = { :git => "https://github.com/qimuya3/HMUIViewSize.git", :tag => "0.1.1" }
   s.source_files  = "*.{h,m}"
 
 end
