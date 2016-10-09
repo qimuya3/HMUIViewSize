@@ -8,9 +8,9 @@
 
 Pod::Spec.new do |s|
 
-  s.name         = "UIView+FrameEx"
+  s.name         = "UIView+Size"
   s.version      = "0.1.1"
-  s.summary      = "UIView+FrameEx is a category for UIView which makes it easy to access frame properties ."
+  s.summary      = "UIView+Size is a category for UIView which makes it easy to access frame properties ."
   s.description  = <<-DESC
                    A longer description of UIView+FrameEx in Markdown format.
 
@@ -20,11 +20,11 @@ Pod::Spec.new do |s|
                    * Finally, don't worry about the indent, CocoaPods strips it!
                    DESC
 
-  s.homepage     = "https://github.com/qimuya3/UIView-FrameEx"
+  s.homepage     = "https://github.com/qimuya3/UIView-Size"
   s.license      = { :type => "MIT", :file => "LICENSE" }
   s.author       = "qimuya3"
   s.platform     = :ios, "5.0"
-  s.source       = { :git => "https://github.com/qimuya3/UIView-FrameEx.git", :tag => "0.1.1" }
+  s.source       = { :git => "https://github.com/qimuya3/UIView-Size.git", :tag => "0.1.1" }
   s.source_files  = "*.{h,m}"
 
 end
