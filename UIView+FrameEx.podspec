@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
 
-  s.name         = "UIView+Size"
+  s.name         = "HMUIViewSize"
   s.version      = "0.1.1"
   s.summary      = "UIView+Size is a category for UIView which makes it easy to access frame properties ."
   s.description  = <<-DESC
