@@ -3,25 +3,25 @@
 
 @interface UIView (FrameEx)
 
-@property (nonatomic) CGFloat x;
+@property (nonatomic) CGFloat hm_x;
 
-@property (nonatomic) CGFloat y;
+@property (nonatomic) CGFloat hm_y;
 
-@property (nonatomic) CGFloat bottom;
+@property (nonatomic) CGFloat hm_bottom;
 
-@property (nonatomic) CGFloat right;
+@property (nonatomic) CGFloat hm_right;
 
-@property (nonatomic) CGFloat centerX;
+@property (nonatomic) CGFloat hm_centerX;
 
-@property (nonatomic) CGFloat centerY;
+@property (nonatomic) CGFloat hm_centerY;
 
-@property (nonatomic) CGFloat width;
+@property (nonatomic) CGFloat hm_width;
 
-@property (nonatomic) CGFloat height;
+@property (nonatomic) CGFloat hm_height;
 
-@property (nonatomic) CGPoint origin;
+@property (nonatomic) CGPoint hm_origin;
 
-@property (nonatomic) CGSize size;
+@property (nonatomic) CGSize hm_size;
 
 
 #pragma mark - Set Anchor Point
